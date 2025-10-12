@@ -1,4 +1,4 @@
- # in this file we also used scss and scss compiler for styling the component
+ # In this file we also used scss and scss compiler for styling the component
 
 React js :-
 
@@ -51,7 +51,6 @@ eESLint is used to find bugs early before running the application. We can also c
 used to filter out files that should not be pushed to GitHub, mainly to exclude environment files and other sensitive files.
 
 IMPORTANT:-
-
 1. Calling Component - a component can be called like a normal function or using jsx syntax by creating a tag for it
    for ex:-
    App()
