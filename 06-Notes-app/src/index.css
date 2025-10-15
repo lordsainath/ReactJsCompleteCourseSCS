@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.bgtext {
+   background: linear-gradient(90deg,rgba(143, 32, 150, 1) 0%, rgba(219, 118, 208, 1) 80%, rgba(212, 103, 197, 1) 98%);
+    background-clip: text;
+    color: transparent;
+}
+
+
+.bgbtn {
+    background: linear-gradient(90deg,rgba(143, 32, 150, 1) 0%, rgba(219, 118, 208, 1) 80%, rgba(212, 103, 197, 1) 98%);
+}
+
+
+::-webkit-scrollbar  {
+    display: none;
+}
